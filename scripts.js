@@ -9,10 +9,10 @@ function convertValues() {
 
     console.log(currencySelect.value)
     const realToday = 1.00
-    const dolarToday = 5.65
-    const euroToday = 6.50
-    const libraToday = 7.10
-    const bitcoinToday = 467409.73
+    const dolarToday = 5.67
+    const euroToday = 6.21
+    const libraToday = 7.3735
+    const bitcoinToday = 471026.12
 
 
 
